@@ -1,0 +1,8 @@
+# Core dependencies
+python-dotenv>=1.0.0
+
+# AI Model Providers (install only the ones you need)
+anthropic>=0.7.0      # For Claude (default)
+openai>=1.0.0         # For OpenAI GPT models
+groq>=0.4.1           # For Groq Mixtral
+ollama>=0.0.1         # For local models (Ollama)

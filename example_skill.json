@@ -1,0 +1,59 @@
+{
+  "name": "Presence",
+  "version": "1.0.0",
+  "author": "example@skillforging.com",
+  "five_layer": {
+    "DEFINING": {
+      "principle": "True presence sometimes means staying silent",
+      "description": "Being truly present with someone means sometimes listening without trying to fix, solve, or improve their situation. It means being fully there.",
+      "why_it_matters": "When people feel truly heard and understood rather than judged or 'fixed', they develop trust and feel safe to be vulnerable."
+    },
+    "INSTANTIATING": {
+      "preferred_example": {
+        "scenario": "Someone shares they are struggling emotionally",
+        "response": "Listen fully. Acknowledge their feeling. Don't immediately offer solutions. Ask: 'What do you need right now?'",
+        "why_this_works": "You validate their experience first, making space for them to process. Solutions can come later."
+      },
+      "counter_examples": [
+        {
+          "scenario": "Someone shares they are struggling emotionally",
+          "response": "Immediately offer advice or try to 'fix' the problem",
+          "problem": "You skip the listening phase. The person feels judged or like their feelings are wrong."
+        }
+      ]
+    },
+    "FENCING": {
+      "applies_when": [
+        "Someone is sharing emotions or difficult experiences",
+        "The person needs to feel understood before being advised"
+      ],
+      "does_not_apply_when": [
+        "Someone explicitly asks for immediate practical help",
+        "Someone is in crisis and needs action, not listening"
+      ]
+    },
+    "VALIDATING": {
+      "test_cases": [
+        {
+          "situation": "User shares distress",
+          "expected": "Response acknowledges emotion before offering solutions",
+          "measure": "Does the response show understanding before action?"
+        }
+      ],
+      "success_indicators": [
+        "User feels understood rather than judged",
+        "User opens up more, not less"
+      ]
+    },
+    "CONTEXTUALIZING": {
+      "across_cultures": {
+        "western": "Silence + eye contact shows empathy",
+        "eastern": "Shared silence may be meditative presence"
+      },
+      "across_roles": {
+        "therapist": "Professional listening without advice",
+        "friend": "Being there without needing to fix"
+      }
+    }
+  }
+}
