@@ -26,7 +26,7 @@ In an era where AI increasingly becomes a "black box" controlled by corporations
 
 ---
 
-## What Is a Skill?
+## What Is this Skill?
 
 A **Skill** is a structured, five-layer definition that teaches AI how to understand and apply a human value in ways that are verifiable and culturally aware.
 
